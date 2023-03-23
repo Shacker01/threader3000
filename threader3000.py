@@ -29,7 +29,7 @@ def main():
     print("-" * 60)
     print("        Threader 3000 - Multi-threaded Port Scanner          ")
     print("                       Version 1.0.7                    ")
-    print("                   A project by The Mayor               ")
+    print("                   A project by Shacker               ")
     print("-" * 60)
     time.sleep(1)
     target = input("Enter your target IP address or URL here: ")
